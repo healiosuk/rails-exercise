@@ -2,6 +2,15 @@
 
 This exercise aims to help us understand your approach to building software with Rails.
 
+# Getting started
+
+To get the Rails server running locally:
+
+- Clone this repo
+- bundle install to install all required dependencies
+- rails assets:precompile to install tailwind assets
+- rails s to start the local server
+
 ## In scope
 
 The goal is to enable you to demonstrate how you do the following:
